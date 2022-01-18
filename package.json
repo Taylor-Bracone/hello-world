@@ -13,6 +13,7 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "hello-world": "^0.0.2",
     "lit": "^2.0.0"
   },
   "devDependencies": {
